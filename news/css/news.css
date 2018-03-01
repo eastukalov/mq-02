@@ -1,5 +1,6 @@
 .container {
-	width: calc(100% - 1366px + 960px);
+	/* 960/1366*100 */
+	width: 70%;
 	padding: 15px 10px;
 	min-width: 768px;
 	max-width: 1300px;
